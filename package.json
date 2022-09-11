@@ -1,0 +1,15 @@
+{
+  "name": "wx-vite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ax772090/wx-vite.git",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "vite --mode test"
+  },
+  "devDependencies": {
+    "vite": "^3.1.0"
+  }
+}
